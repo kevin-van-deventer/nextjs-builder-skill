@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-builder-skill",
+  "version": "1.0.0",
+  "description": "Comprehensive Next.js App Router builder skill and playbook installer for Claude Code, Codex, and Antigravity",
+  "bin": {
+    "nextjs-builder-skill": "./bin/install.mjs"
+  },
+  "keywords": [
+    "nextjs",
+    "seo",
+    "eeat",
+    "geo",
+    "claude-code",
+    "codex",
+    "antigravity",
+    "skill",
+    "agent-skill",
+    "react",
+    "vercel",
+    "netlify"
+  ],
+  "author": "kevin-van-deventer",
+  "license": "MIT",
+  "files": [
+    "bin/",
+    "skill/"
+  ]
+}
